@@ -59,11 +59,11 @@
 <a href=https://godfield.net/>
 URL!
 </a>
+  </h4>
 <a href=https://apps.apple.com/jp/app/%E3%82%B4%E3%83%83%E3%83%89%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%E3%83%89/id1536427424>
 <h6>
 スマホの場合！
 </h6>
 </a>
-</h6>
 </html>
 
